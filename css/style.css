@@ -1,0 +1,107 @@
+
+body{
+  background-color:#A8D3EB;
+  color: #3E4A7C;
+  font-size: 16px;
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav{
+  background-color: #26A1E6;
+  border-radius: 0;
+  border:0;
+}
+
+.navbar-brand{
+  padding-top: 25px;
+}
+
+.navbar-brand h1{
+  font-family: 'Oxygen Mono', monospace;
+  color: #3E4A7C;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #fff;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height:  .75;
+}
+
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+
+}
+
+.navbar-brand p {
+  color: #000;
+  text-transform: uppercase;
+  font-size: .7em;
+  margin-top: 15px;
+
+}
+
+.navbar-brand p span{
+  vertical-align: middle;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #3E4A7C;
+}
+.navbar-default .navbar-nav>li>a:hover {
+    background-color: #A8D3EB ;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+  border: 1px solid #3E4A7C;
+}
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+  background-color: #A8D3EB;
+}
+h1{
+  font-family: 'Oxygen', sans-serif;
+  color: #3E4A7C;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 30px;
+ 
+}
+
+h3{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.2em;
+
+}
+.articles{
+  margin-bottom: 20px;
+  text-align: justify;
+  background-color: #26A1E6;
+  padding: 10px;
+ 
+}
+
+div{
+box-sizing:border-box;
+}
+
+#collapsable-nav{
+text-align: center;
+}
+
+#collapsable-nav a span{
+font-size: 1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
